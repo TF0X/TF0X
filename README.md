@@ -21,25 +21,12 @@ Design infrastructure with drag-and-drop and generate Terraform instantly.
 - 🐳 Docker  
 - ⚙️ DevOps & Automation  
 
----
-
-## 🧠 Current focus
-
-- Making Terraform easier to use  
-- Visual infrastructure tools  
-- Reducing “why is this breaking” moments  
-
----
-
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TF0X&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🤝 Let's connect
 
-- LinkedIn: <your-link>
+- LinkedIn: https://www.linkedin.com/in/priyansh7098/
 - GitHub: https://github.com/TF0X
 
 ---
